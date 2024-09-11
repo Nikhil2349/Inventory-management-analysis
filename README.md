@@ -1,4 +1,5 @@
-# Inventory Management Project
+# Inventory Management Analysis
+
 
 ## Overview
 
