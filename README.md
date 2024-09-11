@@ -17,7 +17,7 @@ The dataset used in this project provides detailed transactional information nec
 
 ### Data File
 - **File Name**: `Project.csv`
-- **Location**: `C:/Users/Nikhil G/Desktop/Inventary management/Project.csv`
+- **Location**: `https://github.com/Nikhil2349/Inventory-management-analysis/blob/main/Project.csv`
 
 ### Columns
 1. **transaction_date**: 
